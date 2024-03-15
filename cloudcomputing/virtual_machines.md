@@ -55,4 +55,4 @@ The evidence for this badge will comprise of completed projects , either persona
 The recipient will be assessed via a one-on-one online meeting. The recipient will be:
 
 - Interviewed on the projects completed
-- Asked to demonstrate a VM hosted with a cloud service provider to determine the recipient's competence
+- Asked to demonstrate tasks on hosting a VM with a cloud service provider to assess the recipient's competence

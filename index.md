@@ -21,7 +21,7 @@ You can earn a badge by demonstrating your competence in a particular work area.
 
 There is a criteria for earning a digital badge. The criteria will specify the following :
 - name of the badge 
-- the competence that must be demonstrated
+- the competences that must be demonstrated
 - the evidence you must produce
 - how you will be assessed
 
