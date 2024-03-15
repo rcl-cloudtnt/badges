@@ -22,7 +22,7 @@ CC-001
 
 The badge is issued to recipients who demonstrate the skill and knowledge in using cloud-based virtual machines to host web applications online.
 
-# Skills and Knowledge
+# Competences
 
 The recipient should be able to :
 
@@ -41,7 +41,7 @@ The recipient should be able to :
 
 # Evidence
 
-The evidence for this badge will comprise of completed projects , either personal or for a customer or employer. The following evidence must be provided :
+The evidence for this badge will comprise of completed projects , either personal, or for a customer or employer. The following evidence must be provided :
 
 - A GitHub website listing the projects completed with the following information:
 
@@ -55,4 +55,4 @@ The evidence for this badge will comprise of completed projects , either persona
 You will be assessed via a one-on-one online meeting. You will be:
 
 - Interviewed on your projects
-- Asked to demonstrate a VM hosted with a cloud service provider to determine your skill and knowledge
+- Asked to demonstrate a VM hosted with a cloud service provider to determine your competence
