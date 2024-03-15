@@ -20,7 +20,7 @@ CC-001
 
 # Description
 
-The badge is issued to recipients who demonstrate the skill and knowledge in using cloud-based virtual machines to host web applications online.
+The badge is issued to recipients who demonstrate competence in using cloud-based virtual machines to host web applications online.
 
 # Competences
 
@@ -52,7 +52,7 @@ The evidence for this badge will comprise of completed projects , either persona
 
 # Assessment
 
-You will be assessed via a one-on-one online meeting. You will be:
+The recipient will be assessed via a one-on-one online meeting. The recipient will be:
 
-- Interviewed on your projects
-- Asked to demonstrate a VM hosted with a cloud service provider to determine your competence
+- Interviewed on the projects completed
+- Asked to demonstrate a VM hosted with a cloud service provider to determine the recipient's competence
