@@ -15,14 +15,15 @@ A digital badge is a .PNG image file with embedded data outlining the competence
 
 ## How do I earn a badge
 
-You can earn a badge by demonstrating your competence in a particular work area. This demonstration can include performing tasks, portfolios of your completed projects, contribution to GitHub projects and online skill interviews. Once you provide sufficient evidence for your competence, an assessor will issue a badge to you.
+You can earn a badge by demonstrating your competence in a particular work area. This demonstration can include performing tasks, portfolios of your completed projects, contribution to GitHub projects and online interviews. Once you provide sufficient evidence for your competence, an assessor will issue a badge to you.
 
 ## Criteria for badges
 
 There is a criteria for earning a digital badge. The criteria will specify the following :
+
 - name of the badge 
 - the competences that must be demonstrated
-- the evidence you must produce
+- the evidence that must produced
 - how you will be assessed
 
 
