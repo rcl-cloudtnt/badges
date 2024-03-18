@@ -7,11 +7,11 @@ nav_order: 1
 
 # Introduction
 
-This website provides the criteria for Digital Badges offered by RCL CloudTnT to recognize the competence of DevOps and Software Developers.
+This website provides the criteria for [Open Badges](https://openbadges.org/) issued by RCL CloudTnT to DevOps and Software Developers.
 
-## What is a Digital Badge
+## What is an Open Badge
 
-A digital badge is a .PNG image file with embedded data outlining the competences that were achieved by a recipient. These badges can be stored in digital backpacks and displayed by the recipients across various websites.
+A badge is a .PNG image file with embedded data outlining the competences that were achieved by a recipient and other meta data for the badge. These badges can be stored in digital backpacks and displayed by the recipients across various websites.
 
 ## How is a badge earned
 
