@@ -1,6 +1,6 @@
 ---
 title: Introduction
-description: RCL CloudTnT Digital Badges
+description: RCL CloudTnT OPen Badges
 has_children: false
 nav_order: 1
 ---
@@ -15,11 +15,11 @@ A badge is a .PNG image file with embedded data outlining the competences that w
 
 ## How is a badge earned
 
-A badge in earned by demonstrating competence in a particular work area. This demonstration can include performing tasks, portfolios of completed projects, GitHub projects and online interviews. Once sufficient evidence is provided, an assessor will issue a badge to a recipient.
+A badge in earned by demonstrating competence in a particular work area. This demonstration can include performing tasks, portfolios of completed projects, GitHub projects and online interviews. Once sufficient evidence is provided, an issuer will issue a badge to a recipient.
 
 ## Criteria for badges
 
-There is a criteria for earning a digital badge. The criteria will specify the following :
+There is a criteria for earning a badge. The criteria will specify the following :
 
 - name of the badge 
 - a .PNG image of the badge
