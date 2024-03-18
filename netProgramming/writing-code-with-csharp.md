@@ -8,7 +8,7 @@ nav_order: 1
 
 # Title
 
-Writing Code With C#
+[Writing Code With C#](./badgeClass/writing-code-with-csharp.json)
 
 # Badge Image
 
@@ -23,6 +23,10 @@ PNG 240 x 240 px
 # Status
 
 Active
+
+# Issuer
+
+[RCL CloudTnT](/issuer/profile.json)
 
 # Code
 
