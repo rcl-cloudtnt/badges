@@ -7,7 +7,7 @@ nav_order: 1
 
 # Introduction
 
-This website provides the criteria for [Open Badges](https://openbadges.org/) issued by [RCL CloudTnT]() to DevOps and Software Developers.
+This website provides the criteria for [Open Badges V2.0](https://openbadges.org/) issued by [RCL CloudTnT]() to DevOps and Software Developers.
 
 ## What is an Open Badge
 

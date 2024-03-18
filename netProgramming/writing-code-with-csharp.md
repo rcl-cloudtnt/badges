@@ -26,7 +26,7 @@ Active
 
 # Issuer
 
-[RCL CloudTnT](/issuer/profile.json)
+[RCL CloudTnT](../issuer/profile.json)
 
 # Code
 
