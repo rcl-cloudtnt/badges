@@ -13,18 +13,19 @@ This website provides the criteria for Digital Badges offered by RCL CloudTnT to
 
 A digital badge is a .PNG image file with embedded data outlining the competences that were achieved by a recipient. These badges can be stored in digital backpacks and displayed by the recipients across various websites.
 
-## How do I earn a badge
+## How is a badge earned
 
-You can earn a badge by demonstrating your competence in a particular work area. This demonstration can include performing tasks, portfolios of your completed projects, contribution to GitHub projects and online interviews. Once you provide sufficient evidence for your competence, an assessor will issue a badge to you.
+A badge in earned by demonstrating competence in a particular work area. This demonstration can include performing tasks, portfolios of completed projects, GitHub projects and online interviews. Once sufficient evidence is provided, an assessor will issue a badge to a recipient.
 
 ## Criteria for badges
 
 There is a criteria for earning a digital badge. The criteria will specify the following :
 
 - name of the badge 
+- a .PNG image of the badge
 - the competences that must be demonstrated
 - the evidence that must produced
-- how you will be assessed
+- how the recipient will be assessed
 
 
 
