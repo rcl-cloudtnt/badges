@@ -20,6 +20,10 @@ PNG 240 x 240 px
 
 1.0
 
+# Status
+
+Active
+
 # Code
 
 AA-001
@@ -30,7 +34,7 @@ AA-001
 
 # Description
 
-The badge is issued to recipients who demonstrate competence in using writing code with C#.
+The badge is issued to recipients who demonstrate competence in writing code with C#.
 
 # Competences
 
@@ -56,7 +60,7 @@ The recipient should be able to :
 
 The evidence for this badge will comprise of a completed project. The following evidence must be provided :
 
-- A Github project containing a .NET Console application written in C#. The project should:
+- A GitHub project containing a .NET Console application written in C#. The project should:
 
     - contain a ``README.md`` file describing what the application does
     - a ``Program.cs`` file containing the application code
