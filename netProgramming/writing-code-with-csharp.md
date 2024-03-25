@@ -12,7 +12,7 @@ nav_order: 1
 
 # Badge Image
 
-![Writing Code With C#](./images/writing-code-with-csharp.png)
+![Writing Code With C#](./badgeClass/writing-code-with-csharp.png)
 
 PNG 240 x 240 px
 
