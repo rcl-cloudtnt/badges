@@ -7,7 +7,7 @@
         "type": "email",
         "hashed": false
     },
-    "issuedOn": "2024-03-24T00:00:00.0000000",
+    "issuedOn": "2024-03-24T04:00:00.0000000Z",
     "verification": {
         "type": "hosted"
     },
@@ -26,5 +26,5 @@
             "image": "https://rcl-cloudtnt.github.io/issuer/image.png"
         }
     },
-    "expires": "2044-03-24T00:00:00.0000000"
+    "expires": "2044-03-24T04:00:00.0000000Z"
 }
