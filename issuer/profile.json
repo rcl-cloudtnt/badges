@@ -4,5 +4,6 @@
     "id": "https://rcl-cloudtnt.github.io/badges/issuer/profile.json",
     "name": "RCL CloudTnT",
     "image": "https://rcl-cloudtnt.github.io/badges/issuer/image.png",
-    "url": "https://rcl-cloudtnt.github.io/badges"
+    "url": "https://rcl-cloudtnt.github.io/badges",
+    "publicKey": "https://rcl-cloudtnt.github.io/badges/issuer/publicKey.json"
   }
