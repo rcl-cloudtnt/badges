@@ -3,13 +3,13 @@
     "id": "https://rcl-cloudtnt.github.io/badges/assertions/93b1a877-d82a-4e55-9105-cf0fa3ad966e.json",
     "type": "Assertion",
     "recipient": {
-        "identity": "anil.ripla@gmail.com",
+        "identity": "sha256$f351b6056259f8104587d593b74d1cadb9c41dddadb8751c2c2b7c2ea30c6afd",
         "type": "email",
-        "hashed": false
+        "hashed": true
     },
     "issuedOn": "2024-03-24T04:00:00.0000000Z",
     "verification": {
-        "type": "hosted"
+        "type": "HostedBadge"
     },
     "badge": {
         "type": "BadgeClass",
@@ -22,9 +22,11 @@
             "id": "https://rcl-cloudtnt.github.io/badges/issuer/profile.json",
             "type": "Issuer",
             "name": "RCL CloudTnT",
-            "url": "https://rcl-cloudtnt.github.io",
-            "image": "https://rcl-cloudtnt.github.io/badges/issuer/image.png"
+            "url": "https://rcl-cloudtnt.github.io/badges",
+            "image": "https://rcl-cloudtnt.github.io/badges/issuer/image.png",
+            "publicKey": "https://rcl-cloudtnt.github.io/badges/issuer/publicKey.json"
         }
     },
-    "expires": "2044-03-24T04:00:00.0000000Z"
+    "expires": "2044-03-24T04:00:00.0000000Z",
+    "evidence": "https://rcl-cloudtnt.github.io/badges/netProgramming/writing-code-with-csharp.html"
 }
