@@ -1,13 +1,13 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://rcl-cloudtnt.github.io/badges/assertions/93b1a877-d82a-4e55-9105-cf0fa3ad966e.json",
+    "id": "https://rcl-cloudtnt.github.io/badges/assertions/427bb37f-aa4e-44b6-a9d9-6661d4eb73b6.json",
     "type": "Assertion",
     "recipient": {
-        "identity": "sha256$f351b6056259f8104587d593b74d1cadb9c41dddadb8751c2c2b7c2ea30c6afd",
+        "identity": "jdoe@mail.com",
         "type": "email",
-        "hashed": true
+        "hashed": false
     },
-    "issuedOn": "2024-03-24T00:00:00",
+    "issuedOn": "2024-03-24T23:30:29.6528094-04:00",
     "verification": {
         "type": "hosted"
     },
@@ -26,5 +26,5 @@
             "image": "https://rcl-cloudtnt.github.io/issuer/image.png"
         }
     },
-    "expires": "2044-03-24T00:00:00"
+    "expires": "2044-03-25T03:30:29.6528258Z"
 }
