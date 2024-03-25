@@ -1,0 +1,30 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://rcl-cloudtnt.github.io/badges/assertions/93b1a877-d82a-4e55-9105-cf0fa3ad966e.json",
+    "type": "Assertion",
+    "recipient": {
+        "identity": "sha256$f351b6056259f8104587d593b74d1cadb9c41dddadb8751c2c2b7c2ea30c6afd",
+        "type": "email",
+        "hashed": true
+    },
+    "issuedOn": "2024-03-24T00:00:00",
+    "verification": {
+        "type": "hosted"
+    },
+    "badge": {
+        "type": "BadgeClass",
+        "id": "https://rcl-cloudtnt.github.io/badges/netProgramming/badgeClass/writing-code-with-csharp.json",
+        "name": "Writing Code With C#",
+        "description": "The badge is issued to recipients who demonstrate competence in writing code with C#.",
+        "image": "https://rcl-cloudtnt.github.io/badges/netProgramming/images/writing-code-with-csharp.png",
+        "criteria": "https://rcl-cloudtnt.github.io/badges/netProgramming/writing-code-with-csharp.html",
+        "issuer": {
+            "id": "https://rcl-cloudtnt.github.io/issuer/profile.json",
+            "type": "Issuer",
+            "name": "RCL CloudTnT",
+            "url": "https://rcl-cloudtnt.github.io",
+            "image": "https://rcl-cloudtnt.github.io/issuer/image.png"
+        }
+    },
+    "expires": "2044-03-24T00:00:00"
+}
