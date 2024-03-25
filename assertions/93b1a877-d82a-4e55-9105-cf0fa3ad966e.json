@@ -19,11 +19,11 @@
         "image": "https://rcl-cloudtnt.github.io/badges/netProgramming/images/writing-code-with-csharp.png",
         "criteria": "https://rcl-cloudtnt.github.io/badges/netProgramming/writing-code-with-csharp.html",
         "issuer": {
-            "id": "https://rcl-cloudtnt.github.io/issuer/profile.json",
+            "id": "https://rcl-cloudtnt.github.io/badges/issuer/profile.json",
             "type": "Issuer",
             "name": "RCL CloudTnT",
             "url": "https://rcl-cloudtnt.github.io",
-            "image": "https://rcl-cloudtnt.github.io/issuer/image.png"
+            "image": "https://rcl-cloudtnt.github.io/badges/issuer/image.png"
         }
     },
     "expires": "2044-03-24T04:00:00.0000000Z"
