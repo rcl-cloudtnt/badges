@@ -1,13 +1,13 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://rcl-cloudtnt.github.io/badges/assertions/93b1a877-d82a-4e55-9105-cf0fa3ad966e.json",
+    "id": "https://rcl-cloudtnt.github.io/badges/assertions/b3ee615f-54a8-4d60-bb18-3ba5a4cbaa5b.json",
     "type": "Assertion",
     "recipient": {
         "identity": "sha256$f351b6056259f8104587d593b74d1cadb9c41dddadb8751c2c2b7c2ea30c6afd",
         "type": "email",
         "hashed": true
     },
-    "issuedOn": "2024-03-24T04:00:00.0000000Z",
+    "issuedOn": "2024-03-25T19:56:11.3017170Z",
     "verification": {
         "type": "HostedBadge"
     },
@@ -27,6 +27,6 @@
             "publicKey": "https://rcl-cloudtnt.github.io/badges/issuer/publicKey.json"
         }
     },
-    "expires": "2044-03-24T04:00:00.0000000Z",
-    "evidence": "https://rcl-cloudtnt.github.io/badges/netProgramming/writing-code-with-csharp.html"
+    "expires": "2044-03-25T19:56:11.3017186Z",
+    "evidence": "https://github.com/rcl-coding/ExerciseExamMarks"
 }
