@@ -1,0 +1,15 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "BadgeClass",
+    "id": "https://rcl-cloudtnt.github.io/badges/netProgramming/badgeClass/advanced-programming-with-csharp.json",
+    "name": "Advanced Programming With C#",
+    "description": "The badge is issued to recipients who demonstrate competence in developing advanced programs with C#.",
+    "image": "https://rcl-cloudtnt.github.io/badges/netProgramming/badgeClass/advanced-programming-with-csharp.png",
+    "criteria": "https://rcl-cloudtnt.github.io/badges/netProgramming/advanced-programming-with-csharp.html",
+    "tags": [
+      "C Sharp",
+      ".NET Framework",
+      "C#"
+    ],
+    "issuer": "https://rcl-cloudtnt.github.io/badges/issuer/profile.json"
+  }

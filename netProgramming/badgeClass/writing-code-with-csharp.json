@@ -1,0 +1,11 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "BadgeClass",
+    "id": "https://rcl-cloudtnt.github.io/badges/netProgramming/badgeClass/writing-code-with-csharp.json",
+    "name": "Writing Code With C#",
+    "description": "The badge is issued to recipients who demonstrate competence in writing code with C#.",
+    "image": "https://rcl-cloudtnt.github.io/badges/netProgramming/badgeClass/writing-code-with-csharp.png",
+    "criteria": "https://rcl-cloudtnt.github.io/badges/netProgramming/writing-code-with-csharp.html",
+    "tags": ["C Sharp", ".NET Framework", "C#"],
+    "issuer": "https://rcl-cloudtnt.github.io/badges/issuer/profile.json"
+  }

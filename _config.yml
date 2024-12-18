@@ -1,0 +1,10 @@
+title: Open Badges
+description: The criteria for RCL CloudTnT Open Badges
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: true
+
+url: https://rcl-cloudtnt.github.io/badges/
+
+aux_links:
+  Edit on GitHub: https://github.com/rcl-cloudtnt/badges

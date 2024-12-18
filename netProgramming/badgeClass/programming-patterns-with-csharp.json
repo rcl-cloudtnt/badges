@@ -1,0 +1,15 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "BadgeClass",
+    "id": "https://rcl-cloudtnt.github.io/badges/netProgramming/badgeClass/programming-patterns-with-csharp.json",
+    "name": "Programming Patterns With C#",
+    "description": "The badge is issued to recipients who demonstrate competence in using programming patterns with C#.",
+    "image": "https://rcl-cloudtnt.github.io/badges/netProgramming/badgeClass/programming-patterns-with-csharp.png",
+    "criteria": "https://rcl-cloudtnt.github.io/badges/netProgramming/programming-patterns-with-csharp.html",
+    "tags": [
+      "C Sharp",
+      ".NET Framework",
+      "C#"
+    ],
+    "issuer": "https://rcl-cloudtnt.github.io/badges/issuer/profile.json"
+  }

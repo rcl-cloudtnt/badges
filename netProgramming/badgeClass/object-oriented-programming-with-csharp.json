@@ -1,0 +1,15 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://rcl-cloudtnt.github.io/badges/netProgramming/badgeClass/object-oriented-programming-with-csharp.json",
+  "name": "Object Oriented Programming With C#",
+  "description": "The badge is issued to recipients who demonstrate competence in developing Object Oriented Programs (OOP) with C#.",
+  "image": "https://rcl-cloudtnt.github.io/badges/netProgramming/badgeClass/object-oriented-programming-with-csharp.png",
+  "criteria": "https://rcl-cloudtnt.github.io/badges/netProgramming/object-oriented-programming-with-csharp.html",
+  "tags": [
+    "C Sharp",
+    ".NET Framework",
+    "C#"
+  ],
+  "issuer": "https://rcl-cloudtnt.github.io/badges/issuer/profile.json"
+}

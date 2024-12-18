@@ -1,0 +1,7 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "CryptographicKey",
+    "id": "https://rcl-cloudtnt.github.io/badges/issuer/publicKey.json",
+    "owner": "https://rcl-cloudtnt.github.io/badges/issuer/profile.json",
+    "publicKeyPem": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEA0WE2Fvznd1UfqkqOV0HMqnqrCr58Ppd5ESFmnDOQM+xVRdWlFyzt\nhkFqr4lkZ0oH8ZAO/D+77xgf5XiOW4scCRKorgcHyWefK4tEd3WMRmXdbdAMijFr\nACc6izkT3gr9AYCZuRkalr875wAuHwiywxFusi4x23KDlRsOW50pl/Po90Trzz+a\nGl1ei7DDaptWGptxjVC+UjYwJudJPVQ3K8ZyltHk2GJ/LWISbxujoAfKXNwIomaE\nRE1sLE2aHnFXha5j9sMajC4UXHJJFTI9749Y6J3pxl++nR+AvJohHNzgsdU6oEz2\nGf4YtK0RCy/FWqGiYPPE3PGvMvfSNLA5HQIDAQAB\n-----END RSA PUBLIC KEY-----\n"
+  }
