@@ -7,15 +7,15 @@ nav_order: 1
 
 # Introduction
 
-This website provides the criteria for [Open Badges V2.0](https://openbadges.org/) issued by [RCL CloudTnT]() to DevOps and Software Developers.
+This website provides the criteria for the [Open Badges V2.0](https://openbadges.org/) issued by [RCL CloudTnT]() to DevOps and Software Developers.
 
 ## What is an Open Badge
 
-A badge is a .PNG image file with embedded data outlining the competences that were achieved by a recipient and other meta data for the badge. These badges can be stored in digital backpacks and displayed by the recipients across various websites.
+A badge is a .PNG image file with embedded data outlining the competences that were achieved by a recipient. These badges can be stored in digital backpacks and displayed by the recipients across various websites.
 
 ## How is a badge earned
 
-A badge in earned by demonstrating competence in a particular work area. This demonstration can include performing tasks, portfolios of completed projects, GitHub projects and online interviews. Once sufficient evidence is provided, an issuer will issue a badge to a recipient.
+A badge in earned by demonstrating competence in a particular work area. This demonstration can include performing tasks, portfolios of completed projects, GitHub projects and online interviews. Once sufficient evidence is provided, a badge will be issued to a recipient.
 
 ## Criteria for badges
 
