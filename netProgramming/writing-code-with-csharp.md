@@ -64,7 +64,7 @@ The recipient should be able to :
 
 The evidence for this badge will comprise of a completed project. The following evidence must be provided :
 
-- A GitHub project containing a .NET Console application written in C#. The project should:
+- A project hosted on GitHub containing a .NET Console application written in C#. The project should:
 
     - contain a description of what the application does
     - a ``Program.cs`` file containing the application code
@@ -72,8 +72,6 @@ The evidence for this badge will comprise of a completed project. The following 
     - the code should use at least 3 *types*
     - the code should use at least 2 *statements*
 
-Please refer to this [sample project]() as a guide.
-
 # Assessment
 
-The recipient will be assessed through a review of a completed project:
+The recipient will be assessed through a review of a completed project.
