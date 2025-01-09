@@ -30,7 +30,7 @@ Active
 
 # Code
 
-AA-01
+BA001
 
 # Group
 
@@ -66,7 +66,7 @@ The evidence for this badge will comprise of a completed project. The following 
 
 - A GitHub project containing a .NET Console application written in C#. The project should:
 
-    - contain a ``README.md`` file describing what the application does
+    - contain a description of what the application does
     - a ``Program.cs`` file containing the application code
     - the code should contain comments
     - the code should use at least 3 *types*
@@ -76,6 +76,4 @@ Please refer to this [sample project]() as a guide.
 
 # Assessment
 
-The recipient will be assessed via a one-on-one online meeting. The recipient will be:
-
-- Interviewed on the completed project
+The recipient will be assessed through a review of a completed project:
