@@ -44,17 +44,7 @@ The badge is issued to recipients who demonstrate competence in developing Objec
 
 The recipient should be able to :
 
-- Write Object Oriented Programmes with :
-    - Classes
-    - Objects
-    - Abstract Classes
-    - Static Classes
-
-- Use OOP principles :
-
-    - Methods
-    - Inheritance
-    - Interfaces
+- Write Object Oriented Programmes
 
 # Evidence
 
@@ -62,16 +52,11 @@ The evidence for this badge will comprise of a completed project. The following 
 
 - A GitHub project containing a .NET Console application written in C#. The project should:
 
-    - contain a ``README.md`` file describing what the application does
+    - contain a description of what the application does
     - a ``Program.cs`` file containing the application code
     - the code should contain comments
-    - the code should use classes and objects
-    - the code should use at least 2 from : Interfaces, Inheritance, Abstract Class, Static Class 
-
-Please refer to this [sample project]() as a guide.
+    - the code should use object oriented programming
 
 # Assessment
 
-The recipient will be assessed via a one-on-one online meeting. The recipient will be:
-
-- Interviewed on the completed project
+The recipient will be assessed through a review of a completed project.
